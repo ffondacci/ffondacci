@@ -7,6 +7,7 @@
 
 **Open source**
 - [amazingCards](https://github.com/ffondacci/amazingCards): collectible-card building blocks in Swift 6, Metal holographic shaders, tilt and flip, a 3D booster-pack opening, the same stage on Android in Vulkan.
+- [swift-utils](https://github.com/ffondacci/swift-utils): Swift 6 toolbox of independent SPM modules (persistence, networking, Firestore, auth, storage, logging), zero dependencies, strict concurrency, in-memory doubles checked against the Firebase emulator.
 - [firescore](https://github.com/ffondacci/firescore): typed TypeScript wrapper around `firebase-admin`, multi-instance, retry and storage policies, cursor pagination, real-time listeners.
 
 Focus: performance, data-race-free concurrency, modular architecture, connected hardware.
